@@ -1,0 +1,98 @@
+# More Ores Language File
+itemGroup.moreores=More Ores
+
+tile.moreores.ruby_ore.name=Ruby Ore
+item.moreores.ruby_gem.name=Ruby Gem
+item.moreores.ruby_sword.name=Ruby Sword
+item.moreores.ruby_pickaxe.name=Ruby Pickaxe
+item.moreores.ruby_axe.name=Ruby Axe
+item.moreores.ruby_shovel.name=Ruby Shovel
+item.moreores.ruby_hoe.name=Ruby Hoe
+item.moreores.ruby_helmet.name=Ruby Helmet
+item.moreores.ruby_chestplate.name=Ruby Chestplate
+item.moreores.ruby_leggings.name=Ruby Leggings
+item.moreores.ruby_boots.name=Ruby Boots
+
+tile.moreores.sapphire_ore.name=Sapphire Ore
+item.moreores.sapphire_gem.name=Sapphire Gem
+item.moreores.sapphire_sword.name=Sapphire Sword
+item.moreores.sapphire_pickaxe.name=Sapphire Pickaxe
+item.moreores.sapphire_axe.name=Sapphire Axe
+item.moreores.sapphire_shovel.name=Sapphire Shovel
+item.moreores.sapphire_hoe.name=Sapphire Hoe
+item.moreores.sapphire_helmet.name=Sapphire Helmet
+item.moreores.sapphire_chestplate.name=Sapphire Chestplate
+item.moreores.sapphire_leggings.name=Sapphire Leggings
+item.moreores.sapphire_boots.name=Sapphire Boots
+
+tile.moreores.topaz_ore.name=Topaz Ore
+item.moreores.topaz_gem.name=Topaz Gem
+item.moreores.topaz_sword.name=Topaz Sword
+item.moreores.topaz_pickaxe.name=Topaz Pickaxe
+item.moreores.topaz_axe.name=Topaz Axe
+item.moreores.topaz_shovel.name=Topaz Shovel
+item.moreores.topaz_hoe.name=Topaz Hoe
+item.moreores.topaz_helmet.name=Topaz Helmet
+item.moreores.topaz_chestplate.name=Topaz Chestplate
+item.moreores.topaz_leggings.name=Topaz Leggings
+item.moreores.topaz_boots.name=Topaz Boots
+
+tile.moreores.amethyst_ore.name=Amethyst Ore
+item.moreores.amethyst_gem.name=Amethyst Gem
+item.moreores.amethyst_sword.name=Amethyst Sword
+item.moreores.amethyst_pickaxe.name=Amethyst Pickaxe
+item.moreores.amethyst_axe.name=Amethyst Axe
+item.moreores.amethyst_shovel.name=Amethyst Shovel
+item.moreores.amethyst_hoe.name=Amethyst Hoe
+item.moreores.amethyst_helmet.name=Amethyst Helmet
+item.moreores.amethyst_chestplate.name=Amethyst Chestplate
+item.moreores.amethyst_leggings.name=Amethyst Leggings
+item.moreores.amethyst_boots.name=Amethyst Boots
+
+tile.moreores.titanium_ore.name=Titanium Ore
+item.moreores.titanium_ingot.name=Titanium Ingot
+item.moreores.titanium_sword.name=Titanium Sword
+item.moreores.titanium_pickaxe.name=Titanium Pickaxe
+item.moreores.titanium_axe.name=Titanium Axe
+item.moreores.titanium_shovel.name=Titanium Shovel
+item.moreores.titanium_hoe.name=Titanium Hoe
+item.moreores.titanium_helmet.name=Titanium Helmet
+item.moreores.titanium_chestplate.name=Titanium Chestplate
+item.moreores.titanium_leggings.name=Titanium Leggings
+item.moreores.titanium_boots.name=Titanium Boots
+
+tile.moreores.copper_ore.name=Copper Ore
+item.moreores.copper_ingot.name=Copper Ingot
+item.moreores.copper_sword.name=Copper Sword
+item.moreores.copper_pickaxe.name=Copper Pickaxe
+item.moreores.copper_axe.name=Copper Axe
+item.moreores.copper_shovel.name=Copper Shovel
+item.moreores.copper_hoe.name=Copper Hoe
+item.moreores.copper_helmet.name=Copper Helmet
+item.moreores.copper_chestplate.name=Copper Chestplate
+item.moreores.copper_leggings.name=Copper Leggings
+item.moreores.copper_boots.name=Copper Boots
+
+tile.moreores.tin_ore.name=Tin Ore
+item.moreores.tin_ingot.name=Tin Ingot
+item.moreores.tin_sword.name=Tin Sword
+item.moreores.tin_pickaxe.name=Tin Pickaxe
+item.moreores.tin_axe.name=Tin Axe
+item.moreores.tin_shovel.name=Tin Shovel
+item.moreores.tin_hoe.name=Tin Hoe
+item.moreores.tin_helmet.name=Tin Helmet
+item.moreores.tin_chestplate.name=Tin Chestplate
+item.moreores.tin_leggings.name=Tin Leggings
+item.moreores.tin_boots.name=Tin Boots
+
+tile.moreores.silver_ore.name=Silver Ore
+item.moreores.silver_ingot.name=Silver Ingot
+item.moreores.silver_sword.name=Silver Sword
+item.moreores.silver_pickaxe.name=Silver Pickaxe
+item.moreores.silver_axe.name=Silver Axe
+item.moreores.silver_shovel.name=Silver Shovel
+item.moreores.silver_hoe.name=Silver Hoe
+item.moreores.silver_helmet.name=Silver Helmet
+item.moreores.silver_chestplate.name=Silver Chestplate
+item.moreores.silver_leggings.name=Silver Leggings
+item.moreores.silver_boots.name=Silver Boots
