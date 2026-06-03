@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="moreores"
+version="1.0"
+displayName="MoreOres"
+authors="emir37459-hash"
+description='''
+Adds more ores, tools and armors to Minecraft!
+'''
+
+[[dependencies.moreores]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.moreores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
