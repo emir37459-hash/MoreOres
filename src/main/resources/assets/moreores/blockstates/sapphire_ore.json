@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "moreores:sapphire_ore"
+      }
+    ]
+  }
+}
